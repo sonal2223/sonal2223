@@ -50,11 +50,7 @@ Hi, I’m Sonal Kumbhar 👋
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sonal2223&theme=radical)
 
-## 👀 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonal2223&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
