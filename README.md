@@ -11,7 +11,7 @@ Hi, I’m Sonal Kumbhar 👋
 🛠️ Familiar with Git, GitHub, Postman, VS Code, and IntelliJ IDEA.  
 📚 Strong understanding of DBMS, Operating Systems, and Computer Networks.  
 🤝 A team player with problem-solving, critical thinking, and time management skills.  
-🎯 Aspiring software developer passionate about building scalable and efficient applications.  
+🎯 Aspiring software developer passionate about building scalable and efficient applications.
 
 ---
 
@@ -49,8 +49,8 @@ Hi, I’m Sonal Kumbhar 👋
 
 ## 📫 Connect With Me
 
-- 📧 Email: [sonalkumbhar2223@gmail.com](mailto:sonalkumbhar2223@gmail.com)  
-- 💼 LinkedIn: [Sonal Kumbhar](https://www.linkedin.com/in/sonalkumbhar157597298)
+- 📧 Email: sonalkumbhar2223@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/sonalkumbhar157597298
 
 ---
 
