@@ -46,9 +46,6 @@ Hi, I’m Sonal Kumbhar 👋
 ![GitHub Streak](https://streak-stats.demolab.com?user=sonal2223&theme=radical)
 
 
-
-## 📫 Connect With Me
-
 ## 📫 Connect With Me
 
 - 📧 Email: [sonalkumbhar2223@gmail.com](mailto:sonalkumbhar2223@gmail.com)
