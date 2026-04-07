@@ -1,5 +1,12 @@
 # 💫 About Me:
-B.Tech IT student | Full-Stack Developer | Java, C++, C | HTML, CSS, REST APIs | Spring Boot, Hibernate | MySQL | Git & GitHub | Strong in problem-solving and system fundamentals
+🎓 B.Tech student in Information Technology with a strong foundation in software development
+💻 Hands-on experience in web and full-stack development through projects and internships
+👨‍💻 Proficient in Java, C++, and C for application development
+🌐 Skilled in HTML, CSS, and RESTful APIs for building responsive web applications
+⚙️ Experience with Spring Boot, Hibernate, JDBC, and MySQL for backend development
+🛠️ Familiar with Git, GitHub, Postman, VS Code, and IntelliJ IDEA
+📚 Strong understanding of DBMS, Operating Systems, and Computer Networks
+🤝 Possess key soft skills including problem-solving, critical thinking, teamwork, and time manage
 
 
 ## 🌐 Socials:
