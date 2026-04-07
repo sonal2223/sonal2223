@@ -49,7 +49,7 @@ Hi, I’m Sonal Kumbhar 👋
 ## 📫 Connect With Me
 
 - 📧 Email: [sonalkumbhar2223@gmail.com](mailto:sonalkumbhar2223@gmail.com)
-- 💼 LinkedIn: [Sonal Kumbhar](https://www.linkedin.com/in/sonalkumbhar157597298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonalkumbhar157597298/)
 
 ---
 
