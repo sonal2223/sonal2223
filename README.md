@@ -1,25 +1,70 @@
-# 💫 About Me:
-🎓 B.Tech student in Information Technology with a strong foundation in software development
-💻 Hands-on experience in web and full-stack development through projects and internships
-👨‍💻 Proficient in Java, C++, and C for application development
-🌐 Skilled in HTML, CSS, and RESTful APIs for building responsive web applications
-⚙️ Experience with Spring Boot, Hibernate, JDBC, and MySQL for backend development
-🛠️ Familiar with Git, GitHub, Postman, VS Code, and IntelliJ IDEA
-📚 Strong understanding of DBMS, Operating Systems, and Computer Networks
-🤝 Possess key soft skills including problem-solving, critical thinking, teamwork, and time manage
+# 👋 Hello, I'm Sonal Kumbhar
 
+## 🧾 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sonalkumbhar157597298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonalkumbhar2223@gmail.com) 
+Hi, I’m Sonal Kumbhar 👋  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sonal2223&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com?user=sonal2223&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonal2223&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 I am currently pursuing my Bachelor of Technology in Information Technology.  
+💻 I have a strong foundation in software development with hands-on project experience.  
+👨‍💻 Proficient in Java, C++, and C for application development.  
+🌐 Skilled in HTML, CSS, and RESTful APIs for building responsive web applications.  
+⚙️ Experience with Spring Boot, Hibernate, JDBC, and MySQL for backend development.  
+🛠️ Familiar with Git, GitHub, Postman, VS Code, and IntelliJ IDEA.  
+📚 Strong understanding of DBMS, Operating Systems, and Computer Networks.  
+🤝 A team player with problem-solving, critical thinking, and time management skills.  
+🎯 Aspiring software developer passionate about building scalable and efficient applications.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sonal2223&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonal2223&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sonal2223&theme=radical)
+
+## 👀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonal2223&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [sonalkumbhar2223@gmail.com](mailto:sonalkumbhar2223@gmail.com)  
+- 💼 LinkedIn: [Sonal Kumbhar](https://www.linkedin.com/in/sonalkumbhar157597298)
+
+---
+
+> “The best way to predict the future is to create it.”
+
+---
+
+✨ Thanks for visiting my profile!
