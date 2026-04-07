@@ -4,8 +4,7 @@
 
 Hi, I’m Sonal Kumbhar 👋  
 
-🎓 I am currently pursuing my Bachelor of Technology in Information Technology.  
-💻 I have a strong foundation in software development with hands-on project experience.  
+🎓 I am currently pursuing my Bachelor of Technology in Information Technology.   
 👨‍💻 Proficient in Java, C++, and C for application development.  
 🌐 Skilled in HTML, CSS, and RESTful APIs for building responsive web applications.  
 ⚙️ Experience with Spring Boot, Hibernate, JDBC, and MySQL for backend development.  
@@ -24,8 +23,8 @@ Hi, I’m Sonal Kumbhar 👋
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -44,7 +43,7 @@ Hi, I’m Sonal Kumbhar 👋
 
 ## 📊 GitHub Stats
 
-![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonal2223&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=sonal2223&show_icons=true&theme=radical)
 
 ## 🔥 GitHub Streak
 
