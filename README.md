@@ -43,7 +43,7 @@ Hi, I’m Sonal Kumbhar 👋
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=sonal2223&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonal2223&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## 🔥 GitHub Streak
 
