@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sonal Kumbhar
 
-## 🧾 About Me
+ # 🧾 About Me
 
 Hi, I’m Sonal Kumbhar 👋  
 
