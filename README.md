@@ -36,12 +36,6 @@ I am a B.Tech graduate in Information Technology with a strong foundation in sof
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sonal2223&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=sonal2223&icon=0&color=10)](https://visitcount.itsvg.in)
-
 > “The best way to predict the future is to create it.”
 
 ---
