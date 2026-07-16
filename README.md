@@ -2,16 +2,13 @@
 
  # 🧾 About Me
 
-Hi, I’m Sonal Kumbhar 👋  
-
-🎓 I am currently pursuing my Bachelor of Technology in Information Technology.   
-👨‍💻 Proficient in Java, C++, and C for application development.  
-🌐 Skilled in HTML, CSS, and RESTful APIs for building responsive web applications.  
-⚙️ Experience with Spring Boot, Hibernate, JDBC, and MySQL for backend development.  
-🛠️ Familiar with Git, GitHub, Postman, VS Code, and IntelliJ IDEA.  
-📚 Strong understanding of DBMS, Operating Systems, and Computer Networks.  
-🤝 A team player with problem-solving, critical thinking, and time management skills.  
-🎯 Aspiring software developer passionate about building scalable and efficient applications.
+I am a B.Tech graduate in Information Technology with a strong foundation in software engineering, full-stack application development, and problem-solving. My academic background, internships, and hands-on projects have enabled me to build practical expertise in designing and developing scalable, user-centric applications.
+Through my experience as a Full-Stack Java Developer Intern, I have worked with Java, Spring Boot, Hibernate, JDBC, RESTful APIs, and MySQL to develop efficient backend services and integrate end-to-end application workflows. My web development experience has further strengthened my understanding of responsive user interfaces, clean code practices, and modern software development methodologies.
+I enjoy transforming ideas into practical software solutions and continuously expanding my knowledge by working on real-world projects. My key project, ConnectEdu – A Campus Club Platform, demonstrates my ability to design and develop full-stack applications using Spring Boot, Flutter, REST APIs, SQL, AWS S3, Git, and Postman.
+I am passionate about continuous learning and actively enhance my technical skills through competitive programming, coding challenges, technical certifications, and personal projects. Participating in TCS CodeVita Season XIII, where I secured a Global Rank of 12,836, further strengthened my analytical thinking and problem-solving abilities.
+Core Competencies:
+ • Java • Spring Boot • Hibernate • JDBC • REST APIs • MySQL • HTML5 • CSS3 • JavaScript • Git • GitHub • Postman • Object-Oriented Programming • DBMS 
+I am currently seeking opportunities as a Software Engineer, Java Developer, Full-Stack Developer, or Backend Developer, where I can contribute to impactful projects while continuously growing as a technology professional.
 
 ---
 
