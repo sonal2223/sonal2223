@@ -36,6 +36,13 @@ I am a B.Tech graduate in Information Technology with a strong foundation in sof
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samrudhishinde4050-web&theme=tokyo-night"/>
+
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sonal2223&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
