@@ -40,7 +40,7 @@ I am a B.Tech graduate in Information Technology with a strong foundation in sof
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samrudhishinde4050-web&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonal2223&theme=tokyo-night"/>
 
 </p>
 
