@@ -45,17 +45,11 @@ I am a B.Tech graduate in Information Technology with a strong foundation in sof
 
 </p>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sonal2223&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sonal2223&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sonal2223&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=sonal2223&theme=radical&hide_border=false&show_icons=true)
-
-![](https://streak-stats.demolab.com?user=sonal2223&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonal2223&theme=radical&hide_border=false&layout=compact)
-
----
-
-![](https://komarev.com/ghpvc/?username=sonal2223&label=Profile%20Views&color=blue&style=flat)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
