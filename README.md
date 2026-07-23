@@ -1,4 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sonal%20Kumbhar&fontSize=40&fontAlignY=35)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,30:A855F7,60:EC4899,100:3B82F6&height=250&section=header&text=Sonal%20Kumbhar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=2&desc=Full%20Stack%20Java%20Developer%20%7C%20Frontend%20Developer%20%7C%20Backend%20Developer&descAlignY=63&descColor=F8FAFC&descSize=18" width="100%"/>
+
+<br/>
+
+[![](https://raw.githubusercontent.com/Sonal2223/Sonal2223/main/chat.svg)](https://github.com/sonal2223)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Java+Developer;Frontend+Developer;Backend+Developer;Spring+Boot+%7C+React+%7C+Node.js;Java+%7C+Hibernate+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+
+</div>
 # 💫 About Me:
 I am a B.Tech graduate in Information Technology with a strong foundation in software engineering, full-stack application development, and problem-solving. My academic background, internships, and hands-on projects have enabled me to build practical expertise in designing and developing scalable, user-centric applications.<br><br>Through my experience as a Full-Stack Java Developer Intern, I have worked with Java, Spring Boot, Hibernate, JDBC, RESTful APIs, and MySQL to develop efficient backend services and integrate end-to-end application workflows. My web development experience has further strengthened my understanding of responsive user interfaces, clean code practices, and modern software development methodologies.<br><br>I enjoy transforming ideas into practical software solutions and continuously expanding my knowledge by working on real-world projects. My key project, ConnectEdu – A Campus Club Platform, demonstrates my ability to design and develop full-stack applications using Spring Boot, Flutter, REST APIs, SQL, AWS S3, Git, and Postman.<br><br>I am passionate about continuous learning and actively enhance my technical skills through competitive programming, coding challenges, technical certifications, and personal projects. Participating in TCS CodeVita Season XIII, where I secured a Global Rank of 12,836, further strengthened my analytical thinking and problem-solving abilities.<br><br>Core Competencies: • Java • Spring Boot • Hibernate • JDBC • REST APIs • MySQL • HTML5 • CSS3 • JavaScript • Git • GitHub • Postman • Object-Oriented Programming • DBMS<br><br>I am currently seeking opportunities as a Software Engineer, Java Developer, Full-Stack Developer, or Backend Developer, where I can contribute to impactful projects while continuously growing as a technology professional.<br><br>
 
