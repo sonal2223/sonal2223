@@ -18,7 +18,7 @@ Passionate **Full Stack Java Developer** with a strong foundation in **Java, Spr
 
 Worked as a **Full Stack Java Developer Intern**, where I gained hands-on experience in developing backend services, database integration, RESTful APIs, and full-stack application development using industry-standard technologies. 
 
-Core focus areas include **Java Backend Development, Spring Boot, Full Stack Development, Database Management, and Software Engineering**, with additional experience in frontend technologies and modern development tools.
+Core focus areas include **Java Backend Development, Spring Boot, Full Stack Development, Database Management, and Software Engineering**, with additional experience in frontend technologies and modern development tools..
 
 Built and explored multiple real-world projects by following a **learning-by-building** approach. My major project, **ConnectEdu – Campus Club Management & Event Hub**, demonstrates practical experience in developing full-stack applications using **Spring Boot, Flutter, REST APIs, MySQL, AWS S3, Git, and Postman**.
 
