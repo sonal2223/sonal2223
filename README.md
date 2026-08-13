@@ -10,6 +10,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Java+Developer;Frontend+Developer;Backend+Developer;Spring+Boot+%7C+React+%7C+Node.js;Java+%7C+Hibernate+%7C+MySQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=sonal2223&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/sonal2223?label=Followers&style=social" />
+</p>
+
+
 </div>
 
 ## 👩‍💻 About Me
