@@ -1,4 +1,4 @@
-<div align="center">
+ok<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,30:A855F7,60:EC4899,100:3B82F6&height=250&section=header&text=Sonal%20Kumbhar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=2&desc=Full%20Stack%20Java%20Developer%20%7C%20Frontend%20Developer%20%7C%20Backend%20Developer&descAlignY=63&descColor=F8FAFC&descSize=18" width="100%"/>
 
@@ -26,7 +26,7 @@ Worked as a **Full Stack Java Developer Intern**, where I gained hands-on experi
 
 Core focus areas include **Java Backend Development, Spring Boot, Full Stack Development, Database Management, and Software Engineering**, with additional experience in frontend technologies and modern development tools..
 
-Built and explored multiple real-world projects by following a **learning-by-building** approach. My major project, **ConnectEdu – Campus Club Management & Event Hub**, demonstrates practical experience in developing full-stack applications using **Spring Boot, Flutter, REST APIs, MySQL, AWS S3, Git, and Postman**.
+Built and explored multiple real-world projects by following a **learning-by-building** approach. My major project, **ConnectEdu – Campus Club Management & Event Hub**, demonstrates practical experience in developing full-stack applications using **Spring Boot, Flutter, REST APIs, MySQL, AWS S3, Git, and Postman**..
 
 I enjoy solving real-world problems through technology and continuously enhance my skills by working on projects, participating in coding challenges, and earning technical certifications. Participating in **TCS CodeVita Season XIII**, where I secured a **Global Rank of 12,836**, strengthened my analytical thinking and problem-solving abilities.
 
