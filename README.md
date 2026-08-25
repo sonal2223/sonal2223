@@ -28,7 +28,7 @@ Core focus areas include **Java Backend Development, Spring Boot, Full Stack Dev
 
 Built and explored multiple real-world projects by following a **learning-by-building** approach. My major project, **ConnectEdu – Campus Club Management & Event Hub**, demonstrates practical experience in developing full-stack applications using **Spring Boot, Flutter, REST APIs, MySQL, AWS S3, Git, and Postman**..
 
-I enjoy solving real-world problems through technology and continuously enhance my skills by working on projects, participating in coding challenges, and earning technical certifications. Participating in **TCS CodeVita Season XIII**, where I secured a **Global Rank of 12,836**, strengthened my analytical thinking and problem-solving abilities.
+I enjoy solving real-world problems through technology and continuously enhance my skills by working on projects, participating in coding challenges, and earning technical certifications. Participating in **TCS CodeVita Season XIII**, where I secured a **Global Rank of 12,836**, strengthened my analytical thinking and problem-solving abilities..
 
 Currently seeking opportunities as a **Software Engineer, Java Developer, Full Stack Developer, or Backend Developer**, where I can contribute to impactful projects while continuously learning and growing as a technology professional.
 
