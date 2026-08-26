@@ -22,7 +22,7 @@ ok<div align="center">
 
 Passionate **Full Stack Java Developer** with a strong foundation in **Java, Spring Boot, Hibernate, JDBC, REST APIs, and MySQL**, focused on building scalable, efficient, and user-centric web applications..
 
-Worked as a **Full Stack Java Developer Intern**, where I gained hands-on experience in developing backend services, database integration, RESTful APIs, and full-stack application development using industry-standard technologies. 
+Worked as a **Full Stack Java Developer Intern**, where I gained hands-on experience in developing backend services, database integration, RESTful APIs, and full-stack application development using industry-standard technologies.. 
 
 Core focus areas include **Java Backend Development, Spring Boot, Full Stack Development, Database Management, and Software Engineering**, with additional experience in frontend technologies and modern development tools..
 
