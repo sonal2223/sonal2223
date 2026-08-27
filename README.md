@@ -1,4 +1,4 @@
-ok<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,30:A855F7,60:EC4899,100:3B82F6&height=250&section=header&text=Sonal%20Kumbhar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=2&desc=Full%20Stack%20Java%20Developer%20%7C%20Frontend%20Developer%20%7C%20Backend%20Developer&descAlignY=63&descColor=F8FAFC&descSize=18" width="100%"/>
 
